@@ -129,7 +129,7 @@ main {
 }
 
 .BackgroundPic {
-    min-height: 1800px;
+    min-height: 1000px;
     background-image: url("https://www.muchbetteradventures.com/magazine/content/images/size/w2000/2021/07/Torres-del-Paine.jpg");
     background-size: cover;
     -webkit-background-size: cover;
@@ -146,4 +146,25 @@ main {
     border: 10px solid transparent;
     padding: 1px;
     padding-bottom: 130px;
+}
+
+.overview{
+    background-color: #cca9eb;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.extra{
+    background-color: #F3C437;
+    min-height: 200px;
+}
+
+.extra p{
+    border-color: white;
+    border-width: thick;
+}
+
+.extra p{
+    color: white;
 }
