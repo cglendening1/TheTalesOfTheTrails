@@ -155,16 +155,37 @@ main {
     padding-bottom: 50px;
 }
 
+.extra img{
+    width: 50%;
+    vertical-align: center;
+}
+
+.extra p{
+    text-align: center;
+}
 .extra{
+    display: flex;
     background-color: #F3C437;
-    min-height: 200px;
-}
-
-.extra p{
-    border-color: white;
-    border-width: thick;
-}
-
-.extra p{
+    align-items: center;
     color: white;
+    font-size: 30px;
+    padding: 0px 20px;
+}
+
+.extra2 img{
+    width: 50%;
+}
+
+.extra2 p{
+    color: white;
+}
+
+.extra2{
+    display: flex;
+    background-color: #fca4c3;
+    padding-bottom: 150px;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    padding: 0px 20px;
 }
