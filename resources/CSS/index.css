@@ -154,40 +154,43 @@ main {
     padding-top: 50px;
     padding-bottom: 50px;
 }
-
+.extra{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffe59e;
+    align-items: center;
+    color: white;
+    width: 100%;
+    font-size: 30px;
+    margin: 0px auto;
+    min-height: 500px;
+}
 .extra img{
     width: 50%;
-    vertical-align: center;
+    horizontal-align: right;
 }
 
 .extra p{
     text-align: center;
 }
-.extra{
-    display: flex;
-    background-color: #F3C437;
-    align-items: center;
-    color: white;
-    font-size: 30px;
-    padding: 0px 20px;
-    opacity: 70%;
-}
-
-.extra2 img{
-    width: 50%;
-}
-
-.extra2 p{
-    color: white;
-}
 
 .extra2{
     display: flex;
-    background-color: #fca4c3;
-    padding-bottom: 150px;
+    justify-content: space-between;
+    background-color: #fadcf2;
     align-items: center;
     color: white;
+    width: 100%;
     font-size: 30px;
-    padding: 0px 20px;
-    opacity: 70%;
+    padding-bottom: 100px;
+    padding-top: 25px;
+
+}
+.extra2 img{
+    width: 50%;
+    vertical-align: left;
+}
+
+.extra2 p{
+    text-align: center;
 }
