@@ -7,12 +7,10 @@ html, body {
     position: fixed;
     width: 100%;
     z-index: 1;
-    color: #FF5733;
     display:flex;
     justify-content: center;
     align-items:center;
-    background-color:#58B4F0;
-    opacity: 70%;
+    background-color:#475266;
 }
 
 nav {
@@ -27,7 +25,8 @@ nav a{
     letter-spacing: .45rem;
     display:block;
     padding: 0.5em;
-    color:white;
+    color: white;
+    font-weight: bold;
 }
 
 nav a:hover{
