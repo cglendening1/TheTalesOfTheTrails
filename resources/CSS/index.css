@@ -149,7 +149,7 @@ main {
 }
 
 .overview{
-    background-color: #cca9eb;
+    background-color: #Aa5d7b;
     color: white;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -157,7 +157,7 @@ main {
 .extra{
     display: flex;
     justify-content: space-between;
-    background-color: #ffe59e;
+    background-color: #cfa162;
     align-items: center;
     color: white;
     width: 100%;
@@ -177,7 +177,7 @@ main {
 .extra2{
     display: flex;
     justify-content: space-between;
-    background-color: #fadcf2;
+    background-color: #475266;
     align-items: center;
     color: white;
     width: 100%;

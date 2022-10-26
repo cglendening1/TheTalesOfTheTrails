@@ -13,6 +13,11 @@
     width: 75%;
     padding-left: 50px;
     min-height:1500px;
+    padding-top: 30px;
+}
+
+.Entry h2{
+    font-size: 54px;
 }
 
 .Entry2{
