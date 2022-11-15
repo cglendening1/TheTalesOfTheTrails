@@ -26,3 +26,22 @@
 .Entry1{
     padding-bottom: 50px;
 }
+
+.entry_months{
+    display: block;
+    padding-top: 30px;
+
+}
+
+.entry_months a {
+    font-size: 24px;
+    color: black;
+}
+
+.entry_months a:hover{
+    color: #Aa5d7b;
+}
+
+.entry_months a+a {
+  margin-left: 50px;
+}
